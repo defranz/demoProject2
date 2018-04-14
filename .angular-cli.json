@@ -19,7 +19,7 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "/home/franz/Demo/DatingApp.SPA/node_modules/bootstrap/dist/css/bootstrap-theme.min.css",
+        "../node_modules/bootstrap/dist/css/bootstrap.min.css",
         "/home/franz/Demo/DatingApp.SPA/node_modules/font-awesome/css/font-awesome.min.css",
         "styles.css"
       ],
