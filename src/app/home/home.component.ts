@@ -12,7 +12,6 @@ values: any;
   constructor(private http: Http) { }
 
   ngOnInit() {
-    this.getValues();
   }
 
   registerToggle() {
